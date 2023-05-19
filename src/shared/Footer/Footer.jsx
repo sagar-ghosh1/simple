@@ -1,5 +1,5 @@
 import { FaFacebook, FaGoogle, FaInstagram, FaLinkedin, FaMapMarkerAlt, FaMobileAlt, FaYoutube } from 'react-icons/fa';
-
+import { AiOutlineMail } from "react-icons/ai";
 
 const Footer = () => {
   return (
@@ -15,10 +15,10 @@ const Footer = () => {
         </div>
         <div className='flex items-center'>
           <p><FaMobileAlt></FaMobileAlt></p>
-          <p>Uttra, Dhaka, Bangladesh</p>
+          <p>+0123456789</p>
         </div>
         <div className='flex items-center'>
-          <p><FaMobileAlt></FaMobileAlt></p>
+          <p><AiOutlineMail></AiOutlineMail></p>
           <p>magical@toy.com</p>
         </div>
       </div>
