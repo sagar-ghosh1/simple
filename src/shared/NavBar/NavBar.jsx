@@ -36,8 +36,8 @@ const NavBar = () => {
             <div className="navbar-end">
                <div className="avatar tooltip tooltip-left mr-4" data-tip="hello">
                   <div className="w-11 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 ml-2">
-                        <img src="https://rb.gy/dd1d9"/>
-                     </div>
+                     <img src="https://rb.gy/dd1d9" />
+                  </div>
                </div>
 
                <Link to="/login">
