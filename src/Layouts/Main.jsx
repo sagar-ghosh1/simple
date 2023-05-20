@@ -8,12 +8,12 @@ import PhotoGallery from "../pages/Home/PhotoGallery/PhotoGallery";
 const Main = () => {
    return (
       <div>
-         {/* <NavBar></NavBar> */}
+         <NavBar></NavBar>
          <Outlet></Outlet>
-         {/* <Banner></Banner> */}
-         <PhotoGallery></PhotoGallery>
-         {/* <Footer></Footer> */}
-         {/* <NotFound></NotFound> */}
+         <Banner></Banner>
+         {/* <PhotoGallery></PhotoGallery> */}
+         <NotFound></NotFound>
+         <Footer></Footer>
       </div>
    );
 };

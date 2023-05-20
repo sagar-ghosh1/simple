@@ -49,10 +49,10 @@ const Footer = () => {
 
       <div className='gap-6'>
         <h1 className="footer-title">Newsletter</h1>
-        <div className="form-control w-80">
+        <div>
           <h5>Through this email you can communicate very well without any problem.</h5><br />
           <div className="relative">
-            <input type="text" placeholder="username@site.com" className="input input-bordered w-full pr-16" />
+            <input type="text" placeholder="username@site.com" className="input input-bordered w-full pr-16 text-black" />
             <button className="btn btn-primary absolute top-0 right-0 rounded-l-none">Subscribe</button>
           </div>
         </div>
