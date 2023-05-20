@@ -11,7 +11,7 @@ const Main = () => {
          <NavBar></NavBar>
          <Outlet></Outlet>
          <Banner></Banner>
-         {/* <PhotoGallery></PhotoGallery> */}
+         <PhotoGallery></PhotoGallery>
          <NotFound></NotFound>
          <Footer></Footer>
       </div>
