@@ -4,6 +4,7 @@ import Footer from "../shared/Footer/Footer";
 import NotFound from "../pages/NotFound/NotFound";
 import Banner from "../pages/Home/Banner/Banner";
 import PhotoGallery from "../pages/Home/PhotoGallery/PhotoGallery";
+import MoreSection from "../pages/Home/MoreSection/MoreSection";
 
 const Main = () => {
    return (
@@ -11,9 +12,10 @@ const Main = () => {
          <NavBar></NavBar>
          <Outlet></Outlet>
          <Banner></Banner>
-         <PhotoGallery></PhotoGallery>
-         <NotFound></NotFound>
-         <Footer></Footer>
+         {/* <PhotoGallery></PhotoGallery> */}
+         <MoreSection></MoreSection>
+         {/* <NotFound></NotFound> */}
+         {/* <Footer></Footer> */}
       </div>
    );
 };
