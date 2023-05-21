@@ -4,7 +4,7 @@ const MoreSection = () => {
     return (
         <div>
             <div>
-                <h1 className='text-6xl font-medium mt-14 text-center'>Our Services</h1>
+                <h1 className='text-6xl font-medium mt-20 text-center'><span className='text-orange-500'>Our </span>Sevice</h1>
                 <p className='mt-5 mb-6 text-center w-1/4 m-auto font-medium'>Our animal toys are not only visually appealing but also feature engaging features, such as sound effects, realistic movements, and interactive elements..</p>
             </div>
             <div className='flex items-center justify-center container mx-auto'>

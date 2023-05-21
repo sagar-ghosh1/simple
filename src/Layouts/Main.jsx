@@ -13,11 +13,11 @@ const Main = () => {
          <NavBar></NavBar>
          <Outlet></Outlet>
          <Banner></Banner>
-         {/* <PhotoGallery></PhotoGallery> */}
-         {/* <MoreSection></MoreSection> */}
+         <MoreSection></MoreSection>
+         <PhotoGallery></PhotoGallery>
          <ProvidingServices></ProvidingServices>
-         {/* <NotFound></NotFound> */}
-         {/* <Footer></Footer> */}
+         <NotFound></NotFound>
+         <Footer></Footer>
       </div>
    );
 };
