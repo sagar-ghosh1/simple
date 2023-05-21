@@ -14,9 +14,9 @@ const ProvidingServices = () => {
             <div className='p-5 flex flex-col'>
               <div className='rounded-xl overflow-hidden flex'>
                 <div className='w-[25%]'>
-                  <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
+                  <img className='m-auto' src="https://rb.gy/py18s" alt="" />
                 </div>
-                <div className='w-[75%]'>
+                <div className='w-[75%] ml-8'>
                   <h1 className='text-2xl font-medium mb-6 text-green-500'>Pet Sitting</h1>
                   <p className='font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                   <div className='flex'>
@@ -31,9 +31,9 @@ const ProvidingServices = () => {
             <div className='p-5 flex flex-col'>
               <div className='rounded-xl overflow-hidden flex'>
                 <div className='w-[25%]'>
-                  <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
+                  <img className='m-auto' src="https://rb.gy/utjsm" alt="" />
                 </div>
-                <div className='w-[75%]'>
+                <div className='w-[75%] ml-8'>
                   <h1 className='text-2xl font-medium mb-6 text-green-500'>Pet Grooming</h1>
                   <p className='font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                   <div className='flex'>
@@ -48,9 +48,9 @@ const ProvidingServices = () => {
             <div className='p-5 flex flex-col'>
               <div className='rounded-xl overflow-hidden flex'>
                 <div className='w-[25%]'>
-                  <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
+                  <img className='m-auto' src="https://rb.gy/k5ho8" alt="" />
                 </div>
-                <div className='w-[75%]'>
+                <div className='w-[75%] ml-8'>
                   <h1 className='text-2xl font-medium mb-6 text-green-500'>Pet Adoption</h1>
                   <p className='font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                   <div className='flex'>
@@ -65,9 +65,9 @@ const ProvidingServices = () => {
             <div className='p-5 flex flex-col'>
               <div className='rounded-xl overflow-hidden flex'>
                 <div className='w-[25%]'>
-                  <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
+                  <img className='m-auto' src="https://rb.gy/ig0pg" alt="" />
                 </div>
-                <div className='w-[75%]'>
+                <div className='w-[75%] ml-8'>
                   <h1 className='text-2xl font-medium mb-6 text-green-500'>Natural Products</h1>
                   <p className='font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                   <div className='flex'>
@@ -82,9 +82,9 @@ const ProvidingServices = () => {
             <div className='p-5 flex flex-col'>
               <div className='rounded-xl overflow-hidden flex'>
                 <div className='w-[25%]'>
-                  <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
+                  <img className='m-auto' src="https://rb.gy/wpsde" alt="" />
                 </div>
-                <div className='w-[75%]'>
+                <div className='w-[75%] ml-8'>
                   <h1 className='text-2xl font-medium mb-6 text-green-500'>Pet Vaccination</h1>
                   <p className='font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                   <div className='flex'>
@@ -99,9 +99,9 @@ const ProvidingServices = () => {
             <div className='p-5 flex flex-col'>
               <div className='rounded-xl overflow-hidden flex'>
                 <div className='w-[25%]'>
-                  <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
+                  <img className='m-auto' src="https://rb.gy/11ec6" alt="" />
                 </div>
-                <div className='w-[75%]'>
+                <div className='w-[75%] ml-8'>
                   <h1 className='text-2xl font-medium mb-6 text-green-500'>Pet Foods</h1>
                   <p className='font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                   <div className='flex'>
