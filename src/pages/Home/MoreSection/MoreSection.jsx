@@ -22,7 +22,7 @@ const MoreSection = () => {
                         <div className='p-5 flex flex-col'>
                             <div className='rounded-xl overflow-hidden '>
                                 <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
-                                <h1 className='text-center text-2xl font-medium mb-6'>Pet Grooming</h1>
+                                <h1 className='text-center text-2xl font-medium mb-6'>Pet creche</h1>
                                 <p className='text-center font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                             </div>
                         </div>
@@ -31,7 +31,7 @@ const MoreSection = () => {
                         <div className='p-5 flex flex-col'>
                             <div className='rounded-xl overflow-hidden '>
                                 <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
-                                <h1 className='text-center text-2xl font-medium mb-6'>Pet Grooming</h1>
+                                <h1 className='text-center text-2xl font-medium mb-6'>Sterile 24/7</h1>
                                 <p className='text-center font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                             </div>
                         </div>
@@ -40,7 +40,7 @@ const MoreSection = () => {
                         <div className='p-5 flex flex-col'>
                             <div className='rounded-xl overflow-hidden '>
                                 <img className='m-auto' src="/src/assets/removebg-preview.png" alt="" />
-                                <h1 className='text-center text-2xl font-medium mb-6'>Pet Grooming</h1>
+                                <h1 className='text-center text-2xl font-medium mb-6'>Full vaccine</h1>
                                 <p className='text-center font-medium'>Event time you check your cat or pet, we will definitely check and groom your animal at the some time</p>
                             </div>
                         </div>
