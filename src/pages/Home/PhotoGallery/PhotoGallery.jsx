@@ -5,7 +5,7 @@ const PhotoGallery = () => {
     <div>
       <div>
         <h1 className='text-6xl font-medium text-center mt-20'> <span className='text-orange-500'>Photo</span> Gallery</h1>
-        <p className='mt-5 mb-6 text-center w-1/4 m-auto font-medium'>Animal toys best photo Gallery...</p>
+        <p className='mt-5 mb-6 text-center md:w-1/4 m-auto font-medium'>Animal toys best photo Gallery...</p>
       </div>
       <div className='flex items-center justify-center container mx-auto'>
         <div className='grid grid-cole-1 lg:grid-cols-3'>

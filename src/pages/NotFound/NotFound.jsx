@@ -4,7 +4,7 @@ const NotFound = () => {
    return (
       <div className="hero min-h-screen bg-base-200">
          <div className="hero-content text-center">
-            <div className="max-w-md">
+            <div>
                <div className='mb-8'>
                   <img src="/src/assets/notFound.jpg" alt="" />
                </div>

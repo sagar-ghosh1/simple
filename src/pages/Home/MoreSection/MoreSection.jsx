@@ -5,7 +5,7 @@ const MoreSection = () => {
         <div>
             <div>
                 <h1 className='text-6xl font-medium mt-20 text-center'><span className='text-orange-500'>Our </span>Sevice</h1>
-                <p className='mt-5 mb-6 text-center w-1/4 m-auto font-medium'>Our animal toys are not only visually appealing but also feature engaging features, such as sound effects, realistic movements, and interactive elements..</p>
+                <p className='mt-5 mb-6 text-center px-5 md:w-1/4 m-auto font-medium'>Our animal toys are not only visually appealing but also feature engaging features, such as sound effects, realistic movements, and interactive elements..</p>
             </div>
             <div className='flex items-center justify-center container mx-auto'>
                 <div className='grid gap-6 grid-cole-1 lg:grid-cols-4'>
